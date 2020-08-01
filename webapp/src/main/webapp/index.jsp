@@ -9,9 +9,9 @@
 <h3><center>
 <form action="Controller" method="get">
   <table border="2">
-  <tr bgcolor="lightyellow"><td align="Left" bgcolor="lightyellow">Name : </td><td align="center" bgcolor="white"><input type="text" name="name" /></td>
-  <tr bgcolor="lightyellow"><td align="Left" bgcolor="lightyellow">College Name : </td><td align="center" bgcolor="white"><input type="text" name="college" /></td>
-  <tr bgcolor="lightyellow"><td align="center" bgcolor="lightyellow">  </td><td align="center" bgcolor="white"><input type="submit" value="submit" /></td>
+  <tr bgcolor="red"><td align="Left" bgcolor="red">Name : </td><td align="center" bgcolor="white"><input type="text" name="name" /></td>
+  <tr bgcolor="red"><td align="Left" bgcolor="red">College Name : </td><td align="center" bgcolor="white"><input type="text" name="college" /></td>
+  <tr bgcolor="red"><td align="center" bgcolor="red">  </td><td align="center" bgcolor="white"><input type="submit" value="submit" /></td>
   </table>
 </form>
 </center></h3>
