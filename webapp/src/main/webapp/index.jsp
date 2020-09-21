@@ -16,7 +16,7 @@
            <tr>
            	   <td>
            	   	  <font face="arial" color="black" size="5">
-           	       <strong>Rohan</strong>
+           	       <strong>Rohan Mode</strong>
            	      </font>
            	   </td>
            	   <td width="30%">&nbsp;</td>
@@ -35,16 +35,9 @@
            	       Services
            	    </font></a>
            	   </td>
-           	   <td><a href="#portfolio">
-           	   	 <font face="arial" color="#ffffff" size="3">
-           	      Portfolio
-           	  </font></a>
+           	   <t
            	  </td>
-           	   <td><a href="#team">
-           	   	<font face="arial" color="#ffffff" size="3">
-           	    Team
-           	    </font></a>
-               </td>
+           	   
            	   <td><a href="#contact">
            	   	<font face="arial" color="#ffffff" size="3">
            	   Contact
@@ -75,7 +68,7 @@
            	   	 <h1>
            	   	 	<marquee behavior="alternate" direction="right" scrollamount="2">
            	   	 	<font face="arial" color="#f3971b" size="7">
-           	   	      Frontend Developer
+           	   	      Former Devops intern at TCS 
            	   	    </font>
            	   	</marquee>
            	   	</h1>
@@ -126,8 +119,7 @@
            	   	  	  	<td>
            	   	  	  		<p>
            	   	  	  			<font face="arial" size="3" color="#c2c0c3">
-           	   	  	  			Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
-           	   	  	  			Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	   	  	  			
            	   	  	  		</font>
            	   	  	  		</p>
            	   	  	  		<p>
@@ -138,17 +130,8 @@
            	   	  	  		</p>
            	   	  	  		<hr noshade>
            	   	  	  		<br/>
-           	   	  	  		<button type="button">
-           	   	  	  	      <font face="arial" size="5">		
-           	   	  	  		  Download CV
-           	   	  	  		</font>
-           	   	  	  		</button>
-           	   	  	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-           	   	  	  		<button type="button">
-           	   	  	  		   <font face="arial" size="5">		
-           	   	  	  		    Hire Me
-           	   	  	  		   </font>
-           	   	  	  	    </button>
+           	   	  	  		
+           	   	  	  		
            	   	  	  	</td>
            	   	  	  </tr>
            	   	  </table>  
@@ -200,7 +183,7 @@
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Have worked on different devops tools and willing to learn more as well deep dive into these technologies. 
            	  	     </font>
            	  	     
            	  	   </p>
@@ -225,7 +208,7 @@
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Build a full CICD project using Jenkins to integrate the CI and CD tools.
            	  	     </font>
            	  	     
            	  	   </p>
@@ -249,7 +232,7 @@
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Started learning Kubernetes and want to develope skills on it and containers
            	  	     </font>
 
            	  	   </p>
@@ -269,13 +252,13 @@
                     <br/>
                     <br/>
                     <font size="5" color="#ffffff" face="arial">
-           	  	   	  Clean Code
+           	  	   	  Docker
            	  	    </font>
            	  	   	<br/>
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Used Container such as Docker to Deploy applications on them.
            	  	     </font>
            	  	   </p>
            	  	   </td>
@@ -293,13 +276,13 @@
                     <br/>
                     <br/>
                     <font size="5" color="#ffffff" face="arial">
-           	  	   	  Fast Support
+           	  	   	  Docker-Hub
            	  	    </font>
            	  	   	<br/>
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Used Docker-hub to store the images in repositories created using dockerfiles.
            	  	     </font>
            	  	   </p>
            	  	   </td>
@@ -316,13 +299,13 @@
                     <br/>
                     <br/>
                     <font size="5" color="#ffffff" face="arial">
-           	  	   	  Branding Identity
+           	  	   	  Ansible
            	  	    </font>
            	  	   	<br/>
            	  	   	
            	  	   	<p>
            	  	   	  <font face="arial" size="3" color="#c2c0c3">
-           	  	      Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	  	      Automated the deployements on Docker-Host using different Ansible Playbooks making it more easier to use.
            	  	     </font>
            	  	   </p>
            	  	   </td>
@@ -353,402 +336,9 @@
           <tr>
            	  <td height="160" align="center" valign="middle" colspan="2">
            	  	 <font face="arial" size="6" color=" #f3971b">
-           	  	   Skills
-           	  	</font>
-           	  	<hr width="70" color="#f3971b">
-           	  </td>
-          </tr>
-        <!-- Heading  End-->
-         <tr>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   Html5
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	80%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="80%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   Css3
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	40%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="40%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         </tr>
-         <tr>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   Javascript
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	67%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="67%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   Php
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	70%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="70%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         </tr>
-         <tr>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   Java
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	90%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="90%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         	<td width="50%" height="100" valign="top">
-         	   <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-         	   	<tr>
-         	   		<td align="left" valign="top" height="40">
-         	   		  <font face="arial" size="5" color=" #ffffff">
-         	   		   React
-         	   		</font>
-         	   	    </td>
-         	   		<td align="right" valign="top" height="40">
-         	   			<font face="arial" size="5" color=" #c2c0c3">
-         	   	     	33%
-         	   	       </font>
-         	   	    </td>
-         	   	</tr>
-         	   	<tr>
-         	   		<td colspan="2" bgcolor="#292929" align="left">
-         	   		  <table border="0" width="33%" cellpadding="0" cellspacing="0"  bgcolor="#f3971b">
-         	   		  	 <tr>
-         	   		  	 	<td height="10"></td>
-         	   		  	 </tr>
-         	   		  </table>	
-         	   		</td>
-         	   	</tr>
-         	   </table>	
-         	</td>
-         </tr>
-         <!-- section padding bottom -->
-           <tr>
-           	  <td height="10" colspan="2">
-                 
-           	  </td>
-           </tr>
-          <!-- section padding bottom End-->
-       </table>
-    </td>
-   </tr>
-</table>
-<!-- End Skills -->
+           	  	  
 
 
-<!-- Start Portfolio -->
-<table border="0" id="portfolio" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
-  <tr>
-  	 <td>
-  	 	<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
-  	 	<!-- Heading Start-->
-          <tr>
-           	  <td height="160" align="center" valign="middle" colspan="3">
-           	  	 <font face="arial" size="6" color=" #f3971b">
-           	  	   Portfolio
-           	  	</font>
-           	  	<hr width="70" color="#f3971b">
-           	  </td>
-          </tr>
-        <!-- Heading  End-->
-         <tr>
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Web Design
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio1.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-         	
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Branding
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio2.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Graphic Design
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio3.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-         </tr>
-          <tr>
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Web Design
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio4.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-         	
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Graphic Design
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio5.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-
-         	<td width="33.33%" valign="top">
-         	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
-         	  	<tr>
-         	  		<td>
-         	  			<font face="arial" size="5" color="#ffffff">
-         	  			Project Title Here
-         	  		   </font>
-         	  		   <br/>
-         	  		   <br/>
-         	  		   <font face="arial" size="4" color="#f3971b">
-         	  			Web Design
-         	  		   </font>
-         	  		   <br/><br/>
-                       <img src="images/Portfolio6.jpg" width="100%"/>
-         	  		</td>
-         	  	</tr>
-         	  </table>	
-         	</td>
-         </tr>
-        <!-- section padding bottom -->
-           <tr>
-           	  <td height="60" colspan="3">
-                 
-           	  </td>
-           </tr>
-          <!-- section padding bottom End-->
-       </table>
-     </td>
-   </tr>
-</table>
-<!-- End Portfolio -->
-
-
-<!-- Start Team -->
-<table border="0" id="team" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
-  <tr>
-  	 <td>
-  	 	<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
-  	 	<!-- Heading Start-->
-          <tr>
-           	  <td height="160" align="center" valign="middle" colspan="3">
-           	  	 <font face="arial" size="6" color=" #f3971b">
-           	  	   Team
-           	  	</font>
-           	  	<hr width="70" color="#f3971b">
-           	  </td>
-          </tr>
-        <!-- Heading  End-->
-        <tr>
-          <td width="33.33%" valign="top">
-          	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#292929">
-          	  	<tr>
-          	  	   <td>
-          	  	   	 <img src="images/team1.jpg" width="100%" alt="team" />
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="5" color="#ffffff">
-          	  	   	 	Riya Sharma
-          	  	   	 </font>
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="4" color="#f3971b">
-          	  	   	 	Designer
-          	  	   	 </font>
-          	  	   </td>	
-          	  	</tr>
-          	  </table>
-         	  
-          </td>
-          
-          <td width="33.33%" valign="top">
-          	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#292929">
-          	  	<tr>
-          	  	   <td>
-          	  	   	 <img src="images/team2.jpg" width="100%" alt="team" />
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="5" color="#ffffff">
-          	  	   	 	Monu Gupta
-          	  	   	 </font>
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="4" color="#f3971b">
-          	  	   	 	Web Developer
-          	  	   	 </font>
-          	  	   </td>	
-          	  	</tr>
-          	  </table>
-         	  
-          </td>
-
-          <td width="33.33%" valign="top">
-          	  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#292929">
-          	  	<tr>
-          	  	   <td>
-          	  	   	 <img src="images/team3.jpg" width="100%" alt="team" />
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="5" color="#ffffff">
-          	  	   	 	Prateek Jain
-          	  	   	 </font>
-          	  	   	 <br/><br/>
-          	  	   	 <font face="arial" size="4" color="#f3971b">
-          	  	   	 	App Developer
-          	  	   	 </font>
-
-          	  	   </td>	
-          	  	</tr>
-          	  </table>
-         	  
-          </td>
-        </tr>
-        <!-- section padding bottom -->
            <tr>
            	  <td height="60" colspan="3">
                  
@@ -883,7 +473,7 @@
   	 		   	 	    </font>
   	 		   	 	    <p>
   	 		   	 	      <font color="#c2c0c3" size="3" face="arial">
-  	 		   	 	    	+91 9878666666
+  	 		   	 	    	+91 8669725097
   	 		   	 	     </font>
   	 		   	 	    </p>
   	 		   	 	</td>
@@ -904,7 +494,7 @@
   	 		   	 	    </font>
   	 		   	 	    <p>
   	 		   	 	      <font color="#c2c0c3" size="3" face="arial">
-  	 		   	 	    	saritaxyz@gmail.com
+  	 		   	 	    	rohan.modhemm@gmail.com
   	 		   	 	     </font>
   	 		   	 	    </p>
   	 		   	 	</td>
@@ -925,8 +515,7 @@
   	 		   	 	    </font>
   	 		   	 	    <p>
   	 		   	 	      <font color="#c2c0c3" size="3" face="arial">
-  	 		   	 	    	sec-90, Near hanuman Mandir, New
-  	 		   	 	    	Delhi 110020
+  	 		   	 	    	Pune
   	 		   	 	     </font>
   	 		   	 	    </p>
   	 		   	 	</td>
@@ -934,76 +523,8 @@
   	 		   </table>
   	 		</td>
   	 	</tr>
-  	 	<tr>
-  	 		<td colspan="3">
-  	 			<hr noshade>
-  	 		</td>
-  	 	</tr>
-  	 	<tr>
-  	 		<td colspan="3" height="100" valign="top">
-  	 			<table border="0" width="30%" cellpadding="0" cellspacing="0" align="center">
-  	 				
-  	 				<tr>
-  	 					 <td width="25%" align="center">
-  	 					 	<table border="0" width="50" cellpadding="0" cellspacing="0" align="center" height="50" bgcolor="#f3971b">
-  	 					 		<tr>
-  	 					 			<td align="center" valign="middle">
-  	 					 				<a href="">
-  	 					 				<font size="5" color="#ffffff">
-  	 					 				<span class="fa fa-facebook"></span>
-  	 					 			   </font>
-  	 					 			    </a>
-  	 					 			</td>
-  	 					 		</tr>
-  	 					 	
-  	 					 	</table>
-  	 					 </td>
-  	 					 <td width="25%" align="center">
-  	 					 	<table border="0" width="50" cellpadding="0" cellspacing="0" align="center" height="50" bgcolor="#f3971b">
-  	 					 		<tr>
-  	 					 			<td align="center" valign="middle">
-  	 					 				<a href="">
-  	 					 				<font size="5" color="#ffffff">
-  	 					 				<span class="fa fa-skype"></span>
-  	 					 			   </font>
-  	 					 			</a>
-  	 					 			</td>
-  	 					 		</tr>
-  	 					 	
-  	 					 	</table>
-  	 					 </td>
-  	 					 <td width="25%" align="center">
-  	 					 	<table border="0" width="50" cellpadding="0" cellspacing="0" align="center" height="50" bgcolor="#f3971b">
-  	 					 		<tr>
-  	 					 			<td align="center" valign="middle">
-  	 					 				<a href="">
-  	 					 				<font size="5" color="#ffffff">
-  	 					 				<span class="fa fa-linkedin"></span>
-  	 					 			   </font>
-  	 					 			   </a>
-  	 					 			</td>
-  	 					 		</tr>
-  	 					 	
-  	 					 	</table>
-  	 					 </td>
-  	 					 <td width="25%" align="center">
-  	 					 	<table border="0" width="50" cellpadding="0" cellspacing="0" align="center" height="50" bgcolor="#f3971b">
-  	 					 		<tr>
-  	 					 			<td align="center" valign="middle">
-  	 					 				<a href="">
-  	 					 				<font size="5" color="#ffffff">
-  	 					 				<span class="fa fa-google-plus"></span>
-  	 					 			   </font>
-  	 					 			   </a>
-  	 					 			</td>
-  	 					 		</tr>
-  	 					 	
-  	 					 	</table>
-  	 					 </td>
-  	 				</tr>
-  	 			</table>
-  	 		</td>
-  	 	</tr>
+  	 	
+  	 	
   	 	</table>
   	</td>
   </tr>
