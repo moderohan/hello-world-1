@@ -111,7 +111,7 @@
            	   	  	  <tr>
            	   	  	  	 <td>
            	   	  	  	 	<font face="arial" size="5" color=" #ffffff">
-           	   	  	  	    Devops intern in Pune
+           	   	  	  	    Fomer Devops intern in Pune
            	   	  	  	    </font>
            	   	  	  	</td>
            	   	  	  </tr>
@@ -124,8 +124,7 @@
            	   	  	  		</p>
            	   	  	  		<p>
            	   	  	  			<font face="arial" size="3" color="#c2c0c3">
-           	   	  	  			Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
-           	   	  	  			Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+           	   	  	  			Passionate About Devops and AWS!
            	   	  	  		</font>
            	   	  	  		</p>
            	   	  	  		<hr noshade>
