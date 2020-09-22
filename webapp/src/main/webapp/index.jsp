@@ -61,7 +61,7 @@
            	   	 <h3>
            	   	 	<marquee behavior="alternate" direction="left" scrollamount="2">
            	   	 	<font face="arial" color="#ffffff" size="6">
-           	   	     Hi, I'm Rohan Mode
+           	   	     Hi, 
            	   	    </font>
            	   	   </marquee>
            	   	</h3>
